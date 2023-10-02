@@ -4,8 +4,6 @@ import {
   SiVisualstudiocode,
   SiPostman,
   SiSlack,
-  SiVercel,
-  SiMacos,
   SiNetlify,
   SiWindows,
   SiDiscord,
